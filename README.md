@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/utkarsh08-05/Leetcode/tree/master/0075-sort-colors) |
 | [0540-single-element-in-a-sorted-array](https://github.com/utkarsh08-05/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0739-daily-temperatures](https://github.com/utkarsh08-05/Leetcode/tree/master/0739-daily-temperatures) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/utkarsh08-05/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/utkarsh08-05/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Divide and Conquer
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/utkarsh08-05/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/utkarsh08-05/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Stack
 |  |
 | ------- |
