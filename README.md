@@ -50,8 +50,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/utkarsh08-05/Leetcode/tree/master/0739-daily-temperatures) |
+| [2390-removing-stars-from-a-string](https://github.com/utkarsh08-05/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/utkarsh08-05/Leetcode/tree/master/0739-daily-temperatures) |
+## String
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/utkarsh08-05/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/utkarsh08-05/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
