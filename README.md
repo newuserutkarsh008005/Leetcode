@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/utkarsh08-05/Leetcode/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/utkarsh08-05/Leetcode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/utkarsh08-05/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/utkarsh08-05/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/utkarsh08-05/Leetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/utkarsh08-05/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/utkarsh08-05/Leetcode/tree/master/0739-daily-temperatures) |
@@ -30,10 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/utkarsh08-05/Leetcode/tree/master/0075-sort-colors) |
+| [0611-valid-triangle-number](https://github.com/utkarsh08-05/Leetcode/tree/master/0611-valid-triangle-number) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/utkarsh08-05/Leetcode/tree/master/0075-sort-colors) |
+| [0611-valid-triangle-number](https://github.com/utkarsh08-05/Leetcode/tree/master/0611-valid-triangle-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/utkarsh08-05/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/utkarsh08-05/Leetcode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/utkarsh08-05/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/utkarsh08-05/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/utkarsh08-05/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/utkarsh08-05/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Stack
@@ -79,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/utkarsh08-05/Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1757-recyclable-and-low-fat-products](https://github.com/utkarsh08-05/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## Greedy
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/utkarsh08-05/Leetcode/tree/master/0611-valid-triangle-number) |
 <!---LeetCode Topics End-->
