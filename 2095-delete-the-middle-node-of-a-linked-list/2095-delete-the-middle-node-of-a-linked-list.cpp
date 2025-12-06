@@ -25,7 +25,7 @@ public:
 
         }
         prev->next=temp2->next;
-        temp2->next=nullptr;
+        delete temp2;
         return head;
     }
 };
