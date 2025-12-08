@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/utkarsh08-05/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/utkarsh08-05/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0051-n-queens](https://github.com/utkarsh08-05/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/utkarsh08-05/Leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/utkarsh08-05/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/utkarsh08-05/Leetcode/tree/master/0075-sort-colors) |
@@ -114,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/utkarsh08-05/Leetcode/tree/master/0206-reverse-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/utkarsh08-05/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
