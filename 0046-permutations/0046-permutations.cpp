@@ -3,7 +3,7 @@ public:
     void per(vector<int>&n,int ind,vector<vector<int>>&ans){
             // Base Case 
 
-            if(ind==n.size()){
+            if(ind==n.size()-1){
                 ans.push_back({n});
                 return ;
             }
