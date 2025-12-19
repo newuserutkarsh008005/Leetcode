@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/utkarsh08-05/Leetcode/tree/master/0002-add-two-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/utkarsh08-05/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/utkarsh08-05/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2527-find-xor-beauty-of-array](https://github.com/utkarsh08-05/Leetcode/tree/master/2527-find-xor-beauty-of-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/utkarsh08-05/Leetcode/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/utkarsh08-05/Leetcode/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/utkarsh08-05/Leetcode/tree/master/0206-reverse-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/utkarsh08-05/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/utkarsh08-05/Leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/utkarsh08-05/Leetcode/tree/master/0206-reverse-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/utkarsh08-05/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Backtracking
