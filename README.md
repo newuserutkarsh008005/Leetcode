@@ -40,12 +40,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/utkarsh08-05/Leetcode/tree/master/0053-maximum-subarray) |
+| [0392-is-subsequence](https://github.com/utkarsh08-05/Leetcode/tree/master/0392-is-subsequence) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/utkarsh08-05/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Two Pointers
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/utkarsh08-05/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/utkarsh08-05/Leetcode/tree/master/0075-sort-colors) |
+| [0392-is-subsequence](https://github.com/utkarsh08-05/Leetcode/tree/master/0392-is-subsequence) |
 | [0611-valid-triangle-number](https://github.com/utkarsh08-05/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1768-merge-strings-alternately](https://github.com/utkarsh08-05/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/utkarsh08-05/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/utkarsh08-05/Leetcode/tree/master/0392-is-subsequence) |
 | [0944-delete-columns-to-make-sorted](https://github.com/utkarsh08-05/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1768-merge-strings-alternately](https://github.com/utkarsh08-05/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/utkarsh08-05/Leetcode/tree/master/2390-removing-stars-from-a-string) |
