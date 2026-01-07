@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/utkarsh08-05/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/utkarsh08-05/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/utkarsh08-05/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/utkarsh08-05/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/utkarsh08-05/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/utkarsh08-05/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2527-find-xor-beauty-of-array](https://github.com/utkarsh08-05/Leetcode/tree/master/2527-find-xor-beauty-of-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/utkarsh08-05/Leetcode/tree/master/0002-add-two-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/utkarsh08-05/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/utkarsh08-05/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/utkarsh08-05/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2527-find-xor-beauty-of-array](https://github.com/utkarsh08-05/Leetcode/tree/master/2527-find-xor-beauty-of-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/utkarsh08-05/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -171,12 +173,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/utkarsh08-05/Leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/utkarsh08-05/Leetcode/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/utkarsh08-05/Leetcode/tree/master/0090-subsets-ii) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/utkarsh08-05/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/utkarsh08-05/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/utkarsh08-05/Leetcode/tree/master/0136-single-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/utkarsh08-05/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/utkarsh08-05/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2527-find-xor-beauty-of-array](https://github.com/utkarsh08-05/Leetcode/tree/master/2527-find-xor-beauty-of-array) |
 ## Number Theory
 |  |
@@ -213,4 +217,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/utkarsh08-05/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/utkarsh08-05/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/utkarsh08-05/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
