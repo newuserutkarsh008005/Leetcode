@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/utkarsh08-05/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/utkarsh08-05/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/utkarsh08-05/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+| [1266-minimum-time-visiting-all-points](https://github.com/utkarsh08-05/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/utkarsh08-05/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/utkarsh08-05/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/utkarsh08-05/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/utkarsh08-05/Leetcode/tree/master/0002-add-two-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/utkarsh08-05/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1266-minimum-time-visiting-all-points](https://github.com/utkarsh08-05/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/utkarsh08-05/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/utkarsh08-05/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/utkarsh08-05/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -236,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/utkarsh08-05/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/utkarsh08-05/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
