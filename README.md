@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/utkarsh08-05/Leetcode/tree/master/0155-min-stack) |
 | [0735-asteroid-collision](https://github.com/utkarsh08-05/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/utkarsh08-05/Leetcode/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/utkarsh08-05/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
@@ -242,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/utkarsh08-05/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/utkarsh08-05/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
