@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/utkarsh08-05/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/utkarsh08-05/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2527-find-xor-beauty-of-array](https://github.com/utkarsh08-05/Leetcode/tree/master/2527-find-xor-beauty-of-array) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/utkarsh08-05/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3467-transform-array-by-parity](https://github.com/utkarsh08-05/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/utkarsh08-05/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Divide and Conquer
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarsh08-05/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/utkarsh08-05/Leetcode/tree/master/0611-valid-triangle-number) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/utkarsh08-05/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/utkarsh08-05/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3467-transform-array-by-parity](https://github.com/utkarsh08-05/Leetcode/tree/master/3467-transform-array-by-parity) |
 ## Hash Table
 |  |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/utkarsh08-05/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/utkarsh08-05/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Memoization
 |  |
 | ------- |
