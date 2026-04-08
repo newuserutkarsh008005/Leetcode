@@ -42,11 +42,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/utkarsh08-05/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3467-transform-array-by-parity](https://github.com/utkarsh08-05/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/utkarsh08-05/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/utkarsh08-05/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/utkarsh08-05/Leetcode/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarsh08-05/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/utkarsh08-05/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/utkarsh08-05/Leetcode/tree/master/0735-asteroid-collision) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/utkarsh08-05/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2390-removing-stars-from-a-string](https://github.com/utkarsh08-05/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/utkarsh08-05/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Database
 |  |
 | ------- |
