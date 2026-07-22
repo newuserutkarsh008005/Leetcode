@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/utkarsh08-05/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/utkarsh08-05/Leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/utkarsh08-05/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0485-max-consecutive-ones](https://github.com/utkarsh08-05/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/utkarsh08-05/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/utkarsh08-05/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/utkarsh08-05/Leetcode/tree/master/0704-binary-search) |
