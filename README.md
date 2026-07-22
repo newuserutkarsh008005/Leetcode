@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/utkarsh08-05/Leetcode/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarsh08-05/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/utkarsh08-05/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/utkarsh08-05/Leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/utkarsh08-05/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/utkarsh08-05/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/utkarsh08-05/Leetcode/tree/master/0611-valid-triangle-number) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/utkarsh08-05/Leetcode/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/utkarsh08-05/Leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarsh08-05/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/utkarsh08-05/Leetcode/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/utkarsh08-05/Leetcode/tree/master/0611-valid-triangle-number) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/utkarsh08-05/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/utkarsh08-05/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/utkarsh08-05/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/utkarsh08-05/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0268-missing-number](https://github.com/utkarsh08-05/Leetcode/tree/master/0268-missing-number) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/utkarsh08-05/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Matrix
 |  |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/utkarsh08-05/Leetcode/tree/master/0002-add-two-numbers) |
+| [0268-missing-number](https://github.com/utkarsh08-05/Leetcode/tree/master/0268-missing-number) |
 | [1137-n-th-tribonacci-number](https://github.com/utkarsh08-05/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/utkarsh08-05/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/utkarsh08-05/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -109,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/utkarsh08-05/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/utkarsh08-05/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/utkarsh08-05/Leetcode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/utkarsh08-05/Leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/utkarsh08-05/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/utkarsh08-05/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/utkarsh08-05/Leetcode/tree/master/0611-valid-triangle-number) |
@@ -197,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/utkarsh08-05/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/utkarsh08-05/Leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/utkarsh08-05/Leetcode/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/utkarsh08-05/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/utkarsh08-05/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2527-find-xor-beauty-of-array](https://github.com/utkarsh08-05/Leetcode/tree/master/2527-find-xor-beauty-of-array) |
